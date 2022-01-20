@@ -3,7 +3,7 @@
 #include "MyList.h" 
 #include <iostream>
 using namespace std;
-
+//Hello World
 
 int _tmain(int argc, _TCHAR* argv[]){
 	List L;
