@@ -1,7 +1,7 @@
 #include "StdAfx.h"
 #include <iostream>
 #include "MyList.h"
-
+//Mathunjwa
 using namespace std;
 
 void Init (List& L)
